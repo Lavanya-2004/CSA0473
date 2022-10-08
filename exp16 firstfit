@@ -1,4 +1,4 @@
-[9:26 AM, 10/8/2022] Dhanu Clg: #include<stdio.h>
+#include<stdio.h>
 #include<conio.h>
 #define max 25
 void main()
